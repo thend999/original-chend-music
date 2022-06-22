@@ -1,7 +1,7 @@
 module.exports = {
-        TOKEN: 'OTg1ODMzMTYxOTIzNjM3Mjc5.GtvRPi.wnSi-_HcF9Xqzu7KPjoufhJtyUWIGxHWTld0c8', //write your discord bot token
+        TOKEN: '', //write your discord bot token
         playing: '❤️ /help',
-        mongoDB: "mongodb+srv://proxyuptime:115500ali@cluster0.9iedz.mongodb.net/?retryWrites=true&w=majority", //write your mongoDB url.
+        mongoDB: "", //write your mongoDB url.
         dblToken: "", //write your top.gg token.
  opt: {
         DJ: { 
